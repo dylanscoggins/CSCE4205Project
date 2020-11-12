@@ -1,3 +1,3 @@
 # CSCE4205Project
 
-##Pokémon Image Classification
+## Pokémon Image Classification
